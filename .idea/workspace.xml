@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df3c4545-7ab8-44e4-9700-6352a179e73e" name="Changes" comment="Remove compiled files and add proper gitignore" />
+    <list default="true" id="df3c4545-7ab8-44e4-9700-6352a179e73e" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
+      <change afterPath="$PROJECT_DIR$/src/Patterns/ninteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/twenty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/eighteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/eighteen.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,12 +48,12 @@
   ],
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/realamiit/DSA-From-Scratch.git&quot;,
-    &quot;accountId&quot;: &quot;27346708-2995-4f8b-bda0-92aa7bd28dcb&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/realamiit/DSA-From-Scratch",
+    "accountId": "27346708-2995-4f8b-bda0-92aa7bd28dcb"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -63,49 +68,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.TwoDArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.eight.executor&quot;: &quot;Run&quot;,
-    &quot;Application.eighteen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.eleven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.elseIfExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fifteen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.five.executor&quot;: &quot;Run&quot;,
-    &quot;Application.four.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fourteen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.nine.executor&quot;: &quot;Run&quot;,
-    &quot;Application.one.executor&quot;: &quot;Run&quot;,
-    &quot;Application.seven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.seventeen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.six.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sixteen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ten.executor&quot;: &quot;Run&quot;,
-    &quot;Application.thirteen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.three.executor&quot;: &quot;Run&quot;,
-    &quot;Application.twelve.executor&quot;: &quot;Run&quot;,
-    &quot;Application.two.executor&quot;: &quot;Run&quot;,
-    &quot;Application.twonum.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/reala/IdeaProjects/Basics/src&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/reala/IdeaProjects/Basics/src/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TwoDArray.executor": "Run",
+    "Application.eight.executor": "Run",
+    "Application.eighteen.executor": "Run",
+    "Application.eleven.executor": "Run",
+    "Application.elseIfExample.executor": "Run",
+    "Application.fifteen.executor": "Run",
+    "Application.five.executor": "Run",
+    "Application.four.executor": "Run",
+    "Application.fourteen.executor": "Run",
+    "Application.nine.executor": "Run",
+    "Application.ninteen.executor": "Run",
+    "Application.one.executor": "Run",
+    "Application.seven.executor": "Run",
+    "Application.seventeen.executor": "Run",
+    "Application.six.executor": "Run",
+    "Application.sixteen.executor": "Run",
+    "Application.ten.executor": "Run",
+    "Application.thirteen.executor": "Run",
+    "Application.three.executor": "Run",
+    "Application.twelve.executor": "Run",
+    "Application.twenty.executor": "Run",
+    "Application.two.executor": "Run",
+    "Application.twonum.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/reala/IdeaProjects/Basics/src",
+    "onboarding.tips.debug.path": "C:/Users/reala/IdeaProjects/Basics/src/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\reala\IdeaProjects\Basics\src\Patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.eighteen">
+  <component name="RunManager" selected="Application.twenty">
     <configuration name="eighteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Patterns.eighteen" />
       <module name="src" />
@@ -119,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seventeen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.seventeen" />
+    <configuration name="ninteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.ninteen" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
@@ -145,19 +152,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="thirteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.thirteen" />
-      <module name="src" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="twelve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Patterns.twelve" />
       <module name="src" />
@@ -171,13 +165,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="twenty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.twenty" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.twenty" />
         <item itemvalue="Application.eighteen" />
-        <item itemvalue="Application.seventeen" />
-        <item itemvalue="Application.sixteen" />
+        <item itemvalue="Application.ninteen" />
         <item itemvalue="Application.twelve" />
-        <item itemvalue="Application.thirteen" />
+        <item itemvalue="Application.sixteen" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +347,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766828740948</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1766828857741</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1766828857741</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -367,12 +382,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add patteren packeg" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;src/logicsBulding/elseIfExample.java" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Add gitignore" />
     <MESSAGE value="Merge branch 'main' of https://github.com/realamiit/DSA-From-Scratch&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
     <MESSAGE value="im the commit modify" />
     <MESSAGE value="Remove compiled files and add proper gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove compiled files and add proper gitignore" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
