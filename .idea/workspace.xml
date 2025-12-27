@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df3c4545-7ab8-44e4-9700-6352a179e73e" name="Changes" comment="im the commit modify" />
+    <list default="true" id="df3c4545-7ab8-44e4-9700-6352a179e73e" name="Changes" comment="Remove compiled files and add proper gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,43 +63,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.TwoDArray.executor": "Run",
-    "Application.eight.executor": "Run",
-    "Application.eighteen.executor": "Run",
-    "Application.eleven.executor": "Run",
-    "Application.elseIfExample.executor": "Run",
-    "Application.fifteen.executor": "Run",
-    "Application.five.executor": "Run",
-    "Application.four.executor": "Run",
-    "Application.fourteen.executor": "Run",
-    "Application.nine.executor": "Run",
-    "Application.one.executor": "Run",
-    "Application.seven.executor": "Run",
-    "Application.seventeen.executor": "Run",
-    "Application.six.executor": "Run",
-    "Application.sixteen.executor": "Run",
-    "Application.ten.executor": "Run",
-    "Application.thirteen.executor": "Run",
-    "Application.three.executor": "Run",
-    "Application.twelve.executor": "Run",
-    "Application.two.executor": "Run",
-    "Application.twonum.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/reala/IdeaProjects/Basics/src",
-    "onboarding.tips.debug.path": "C:/Users/reala/IdeaProjects/Basics/src/src/Main.java",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.TwoDArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.eight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.eighteen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.eleven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.elseIfExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fifteen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.five.executor&quot;: &quot;Run&quot;,
+    &quot;Application.four.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fourteen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nine.executor&quot;: &quot;Run&quot;,
+    &quot;Application.one.executor&quot;: &quot;Run&quot;,
+    &quot;Application.seven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.seventeen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.six.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sixteen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ten.executor&quot;: &quot;Run&quot;,
+    &quot;Application.thirteen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.three.executor&quot;: &quot;Run&quot;,
+    &quot;Application.twelve.executor&quot;: &quot;Run&quot;,
+    &quot;Application.two.executor&quot;: &quot;Run&quot;,
+    &quot;Application.twonum.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/reala/IdeaProjects/Basics/src&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/reala/IdeaProjects/Basics/src/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\reala\IdeaProjects\Basics\src\Patterns" />
@@ -332,7 +332,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766828424050</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Remove compiled files and add proper gitignore">
+      <option name="closed" value="true" />
+      <created>1766828740948</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1766828740948</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -363,7 +371,8 @@
     <MESSAGE value="Add gitignore" />
     <MESSAGE value="Merge branch 'main' of https://github.com/realamiit/DSA-From-Scratch&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
     <MESSAGE value="im the commit modify" />
-    <option name="LAST_COMMIT_MESSAGE" value="im the commit modify" />
+    <MESSAGE value="Remove compiled files and add proper gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove compiled files and add proper gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
