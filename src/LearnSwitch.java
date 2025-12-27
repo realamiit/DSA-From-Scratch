@@ -1,0 +1,41 @@
+import java.util.Scanner;
+public class LearnSwitch {
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("enter the day");
+        int day = sc.nextInt();
+//        if (day == 1) {
+//            System.out.println("enter the month");
+//            int month = sc.nextInt();
+//        } else {
+//            System.out.println("enter the year");}
+        switch (day) {
+            case 1:
+            case 8:
+                System.out.println("Today is sunday");
+                System.out.println("this is the one sunday");
+                break;
+            case 2:
+                System.out.println("Today is monday");
+                break;
+            case 3:
+                System.out.println("Today is tuesday");
+                break;
+            case 4:
+                System.out.println("Today is wednesday");
+                break;
+            case 5:
+                System.out.println("Today is thursday");
+                break;
+            case 6:
+                System.out.println("Today is friday");
+                break;
+            case 7:
+                System.out.println("Today is saturday");
+                break;
+            default:
+                System.out.println("Invalid day Enjoy your joyfull Day");
+        }
+    }
+}
