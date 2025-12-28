@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df3c4545-7ab8-44e4-9700-6352a179e73e" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change afterPath="$PROJECT_DIR$/src/Patterns/ninteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/twenty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/twentyOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/twentytwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/eighteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/eighteen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +47,12 @@
   ],
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/realamiit/DSA-From-Scratch",
-    "accountId": "27346708-2995-4f8b-bda0-92aa7bd28dcb"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/realamiit/DSA-From-Scratch&quot;,
+    &quot;accountId&quot;: &quot;27346708-2995-4f8b-bda0-92aa7bd28dcb&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -91,6 +90,8 @@
     "Application.three.executor": "Run",
     "Application.twelve.executor": "Run",
     "Application.twenty.executor": "Run",
+    "Application.twentyOne.executor": "Run",
+    "Application.twentytwo.executor": "Run",
     "Application.two.executor": "Run",
     "Application.twonum.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -112,7 +113,7 @@
       <recent name="C:\Users\reala\IdeaProjects\Basics\src\Patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.twenty">
+  <component name="RunManager" selected="Application.twentytwo">
     <configuration name="eighteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Patterns.eighteen" />
       <module name="src" />
@@ -139,32 +140,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sixteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.sixteen" />
-      <module name="src" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="twelve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.twelve" />
-      <module name="src" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="twenty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Patterns.twenty" />
       <module name="src" />
@@ -178,13 +153,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="twentyOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.twentyOne" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twentytwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.twentytwo" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.twentytwo" />
+        <item itemvalue="Application.twentyOne" />
         <item itemvalue="Application.twenty" />
         <item itemvalue="Application.eighteen" />
         <item itemvalue="Application.ninteen" />
-        <item itemvalue="Application.twelve" />
-        <item itemvalue="Application.sixteen" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766828857741</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1766914560481</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1766914560482</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
