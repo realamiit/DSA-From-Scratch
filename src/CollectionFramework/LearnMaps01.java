@@ -2,12 +2,12 @@ package CollectionFramework;
 
 import com.sun.jdi.Value;
 
-import java.util.ArrayList;
+import java.util.*;
 import java.util.LinkedHashMap;
 
 public class LearnMaps01 {
     public static void main(String[] args) {
-        LinkedHashMap<String, Integer> map = new LinkedHashMap<>();
+        Map<String, Integer> map = new HashMap<>();
         map.put("India", 1);
         map.put("China", 2);
         map.put("USA", 3);
@@ -15,13 +15,15 @@ public class LearnMaps01 {
 
         ArrayList<String> keys = new ArrayList<>(map.keySet());
 
-        ArrayList<String> values = new ArrayList<>();
-//        for (String key : keys) {
-//            Integer value = map.get(key);
-//        }
+        Collection<Integer> values = map.values();
 
         System.out.println(values);
+
+        System.out.println(keys);
+
         System.out.println(map.containsKey("India"));
+
+        System.out.println(map.containsValue("USA"));
     }
 
 }
