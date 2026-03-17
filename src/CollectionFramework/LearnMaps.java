@@ -17,7 +17,6 @@ public class LearnMaps {
         map.put("IND" , "India");
         map.put("JAP" , "Japan");
         map.put("CH" , "China");
-        map.putAll(map);
         map.put("AU" , "Australia");
         map.putIfAbsent("AUS" , "Australia2"); // in here we can't repeat Id but we can always repeat Key
 
