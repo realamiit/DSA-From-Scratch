@@ -14,7 +14,7 @@ public class LearnMaps {
         Map<String,String> map = new HashMap<>();
 
         map.put("US" , "United States");
-        map.put("IND" , "India");
+//        map.put("IND" , "India");
         map.put("JAP" , "Japan");
         map.put("CH" , "China");
         map.put("AU" , "Australia");
@@ -27,6 +27,10 @@ public class LearnMaps {
         System.out.println(map);
 
         System.out.println(map.get("IND"));
+
+        System.out.println(map.getOrDefault("IND", "A Country"));
+
+
 
     }
 }
