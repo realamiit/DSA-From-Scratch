@@ -2,7 +2,7 @@ package array;
 
 public class DSAArrayQuestion {
 //    public static void main(String[] args) {
-//        Find the largest element in an array
+////        Find the largest element in an array
 //
 //        int[] arr = {3, 7, 2, 9, 5};
 //
@@ -16,7 +16,7 @@ public class DSAArrayQuestion {
 //
 //        System.out.println("Maximum element: " + max);
 //    }
-//
+
 
 
 //    Reverse the array in-place

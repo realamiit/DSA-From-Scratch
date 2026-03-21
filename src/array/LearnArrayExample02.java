@@ -10,6 +10,5 @@ public class LearnArrayExample02 {
         for (int num : arr) {
             System.out.println(num);
         }
-
     }
 }
