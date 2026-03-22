@@ -3,7 +3,9 @@
 📘 Java Learning Journey
 
 – README
-My daily Java practice, notes, and code examples.
+My daily Java practice, notes, and code examples
+
+
 📝 About This Repository
 
 Yeh repo mera daily Java practice ka collection hai.
@@ -362,5 +364,5 @@ Exception Handling
 
 Collections Framework
 
-DSA in Java
+
 
