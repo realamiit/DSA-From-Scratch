@@ -13,6 +13,7 @@ public class FindMissNumInArray {
 
         int missing = expectedSum - actualSum;
 
+
         System.out.println("Missing number: " + missing);
     }
 }
