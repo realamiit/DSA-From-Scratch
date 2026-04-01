@@ -5,15 +5,15 @@ public class pattern2 {
         int iniS=0;
         int n=6;
         for(int i=0;i<n;i++) {
-//Star
+//  Star
             for (int j = 0; j < n - i; j++) {
                 System.out.print("*");
             }
-//            space
+//  space
             for (int j = 0; j < iniS; j++) {
                 System.out.print(" ");
             }
-//            Star
+//  Star
             for (int j = 0; j < n - i; j++) {
                 System.out.print("*");
             }
