@@ -42,10 +42,7 @@ public class pattern2 {
 
 }
 
-
-
-
-
+// the final output is 
 //        ************
 //        *****  *****
 //        ****    ****
