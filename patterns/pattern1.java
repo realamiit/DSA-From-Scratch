@@ -27,10 +27,7 @@ public class pattern1 {
             }
     }
 }
-
-
-
-
+//  the output is
 //        *****
 //        *   *
 //        *   *
