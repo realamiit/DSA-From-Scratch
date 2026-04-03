@@ -6,8 +6,6 @@ public class LearnConstructors {
         Complex num2 = new Complex(7, 8);
         num1.print();
         num1.print();
-
-
     }
 }
 
