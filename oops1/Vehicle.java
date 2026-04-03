@@ -15,3 +15,5 @@ public class Vehicle {
         System.out.println("Stopping Vehicle vuuuuuum");
     }
 }
+
+// class name vehicle the car is out side the class
