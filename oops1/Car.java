@@ -24,3 +24,5 @@ public class Car extends Vehicle {
     }
 
 }
+
+// the vehicle class is outside this class  bothe are depend on 
