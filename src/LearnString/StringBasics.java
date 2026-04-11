@@ -3,6 +3,7 @@ package LearnString;
 import java.util.Scanner;
 public class StringBasics {
     public static void main(String[] args) {
+//      To understand the how to String woring!!
       String name = "Amit";
       String sameName ="Amit gupta";
       String newName = new String("Amit");
