@@ -2,7 +2,8 @@ package LearnOops;
 
 public class MethodOverloading {
     public static void main(String[] args) {
-        Greet obj = new Greet();
+        // greet() : sayHello()) is used to demonstrate fundamental programming principles and perform specific user-interaction tasks. 
+        Greet obj = new Greet();   
 //        obj.greeting();
 //        obj.greeting("Amit");
 
