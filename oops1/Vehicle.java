@@ -16,4 +16,4 @@ public class Vehicle {
     }
 }
 
-// class name vehicle the car is out side the class
+// class name vehicle the car is out side this class
