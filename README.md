@@ -1,5 +1,4 @@
 👇
-
 📘 Java Learning Journey
 
 🚀 A structured repository documenting my daily Java learning, practice, and growth.
@@ -15,6 +14,7 @@ I focus on:
 💻 Writing clean & practical code
 📚 Keeping notes + code in one place
 🧠 Concepts Covered So Far
+
 🔹 1. Strings & Text Manipulation
 
 Widely used in real-world applications:
