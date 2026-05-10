@@ -2,7 +2,7 @@ package LearnString;
 
 import java.util.Scanner;
 
-public class learnstring {
+public class learnstring implements learnstring {
     public static void main(String[] args) {
 
 //        String name = "     Krishnaradha     ";
