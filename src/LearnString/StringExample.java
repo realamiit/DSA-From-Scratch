@@ -7,3 +7,6 @@ public class StringExample {
         System.out.println("Your name is " + name +" and your Village is " + Village);
     }
 }
+
+//  Output is:
+//  Your name is Amit Gupta and your Village is Ghazipur

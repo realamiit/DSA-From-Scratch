@@ -1,6 +1,6 @@
 package Patterns;
 
-public class 24 {
+public class twentyfour {
     public static void main(String[] args) {
         int size=5;
         for(int i=0;i<=i;i++){
