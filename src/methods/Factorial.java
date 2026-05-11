@@ -13,8 +13,7 @@ public class Factorial {
     //     for(int i=1; i<=n; i++){
     //         res = res * i;
     //     }
-    //     return res;
-        
+    //     return res;   
     // }
 
 //   Using Recursion 
