@@ -1,8 +1,8 @@
 package LearnRecursion;
 
-class printNUM{
+public class printNUM {
 
-    public static void Printnum(int n){
+        public static void Printnum(int n){
 
         if(n==1){
             System.out.println(1);
@@ -16,4 +16,7 @@ class printNUM{
     public static void main(String[] args) {
         Printnum(5);
     }
+
 }
+
+// java LearnRecursion.printNUM   : run in terminal by this command
