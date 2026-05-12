@@ -2,14 +2,14 @@ package LearnRecursion;
 
 public class printNUM {
 
-        public static void Printnum(int n){
+    public static void Printnum(int n) {
 
-        if(n==1){
+        if (n == 1) {
             System.out.println(1);
             return;
         }
 
-        Printnum(n-1);
+        Printnum(n - 1);
         System.out.println(n);
     }
 
@@ -19,4 +19,4 @@ public class printNUM {
 
 }
 
-// java LearnRecursion.printNUM   : run in terminal by this command
+// java LearnRecursion.printNUM : run in terminal by this command
