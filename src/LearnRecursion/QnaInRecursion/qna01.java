@@ -12,7 +12,7 @@ public class qna01 {
 
     public static void main(String[] args) {
         int n = 5;
-        System.out.println(n);
+        System.out.println(n+"time 'Hellow Amit!!'using Recursion ");
         func(1, n);
     }
 }
