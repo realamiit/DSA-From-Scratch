@@ -13,6 +13,8 @@ public class pattern1 {
 //            System.out.println();
 //        }
 
+
+
         int n =4;
         int m =5;
         for(int i=1;i<=n;i++)
