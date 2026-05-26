@@ -21,15 +21,15 @@ public class pattern2 {
             System.out.println();
 //            iniS = 2*n-2;
 //            for (int p = 1; p < n; p++) {
-////                Star
+//              Star
 //                for(int j= 1; j<=p;j++){
 //                    System.out.print("*");
 //                }
-////                space
+//                space
 //                for (int j= 0; j<=iniS; j++){
 //                    System.out.print(" ");
 //                }
-////                Star
+//             Star
 //                for(int j=1; j<=p;j++){
 //                    System.out.print("*");
 //                }
