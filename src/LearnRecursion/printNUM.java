@@ -6,7 +6,7 @@ public class printNUM {
 
         if (n == 1) {
             System.out.println(1);
-            return;
+            return;   // it means in this function this return; 
         }
 
         Printnum(n - 1);
@@ -20,3 +20,5 @@ public class printNUM {
 }
 
 // java LearnRecursion.printNUM : run in terminal by this command
+
+// Base condations : the condition whwere we have to no more  gone call it and stop the function thats call is known as base condition
