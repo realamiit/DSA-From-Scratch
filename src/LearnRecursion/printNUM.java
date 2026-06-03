@@ -6,7 +6,7 @@ public class printNUM {
 
         if (n == 1) {
             System.out.println(1);
-            return;   // it means in this function this return; 
+            return;   // it means in this function this return in eassy way if the function is true than the return means stop no more callor going to flow 
         }
 
         Printnum(n - 1);
