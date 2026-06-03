@@ -2,8 +2,6 @@ package learnMath;
 
 import org.w3c.dom.ls.LSOutput;
 
-
-
 public class learnMath {
     public static void main(String[] args) {
 
@@ -13,3 +11,5 @@ public class learnMath {
 
     }
 }
+
+// addd  a b we get output is : 
