@@ -6,7 +6,7 @@ public class PrintNUM {
 
     if(n==1){
         System.out.println(1);
-        return;
+        return; // if the condition is true than return mtlb over 
     }
 
     Printnum(n-1);
