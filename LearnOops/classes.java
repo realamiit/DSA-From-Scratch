@@ -10,7 +10,7 @@ public class classes {
 //        Dog d2 = new Dog();
 //        d2.name="leo";
 //        d2.walking();
-//********************************************    for learn constructor
+// ------------    for learn constructor
 //        Complex num1 = new Complex();
 //        num1.a=4;
 //        num1.b=6;
