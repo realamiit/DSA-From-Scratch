@@ -2,12 +2,12 @@ package oops1;
 
 public class Car extends Vehicle {
 //    static void main() {
-//        Car obj = new Car();
-//        obj.wheelsCount =4;
-//        obj.color = "red";
+       Car obj = new Car();
+       obj.wheelsCount =4;
+       obj.color = "red";
 //        obj.color = "green";
 //        obj.color = "blue";
-//        obj.start();
+       obj.start();
 //        obj.stop();
 //        obj.model = "I12";
 
