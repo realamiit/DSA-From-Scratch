@@ -8,7 +8,7 @@ public class Vehicle {
     String  color;
 
     void start(){
-        System.out.println("Starting Vehicle vuuuuuum uuuuum");
+        System.out.println("Starting Vehicle vuuuuuum vuuuuum");
     }
 
     void stop(){
